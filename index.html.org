@@ -44,7 +44,7 @@
             </section>
             <section id="works">
                 <!-- 実績の内容 -->
-                <h2 class="text-center">Works<br>*内容は習作、サンプルです</h2>
+                <h2 class="text-center">Works</h2>
                 <div class="works-box">
                     <a href="#">
                         <img src="./images/img_work_site.png" alt="株式会社きらめき コーポレートサイト様 Webサイトデザイン">
@@ -153,7 +153,7 @@
                             </div>
                         </div>
                     </a>
-                </div>            
+                </div>                
             </section>
             <section id="contact">
                 <!-- コンタクトの内容 -->
